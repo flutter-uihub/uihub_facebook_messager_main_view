@@ -1,0 +1,27 @@
+name: uihub_facebook_messager_main_view
+description: "free flutter ui is all you need"
+#publish_to: 'none'
+repository: https://github.com/flutter-uihub/uihub_facebook_messager_main_view
+
+version: 1.0.1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  styled_widget:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  assets:
+    - assets/uihub/uihub_facebook_messager_main_view/
+  uses-material-design: true
+
+topics:
+  - uihub
